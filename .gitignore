@@ -1,0 +1,7 @@
+data/
+results/*.bam
+results/*.sam
+results/*bam.bai
+.sneakmake/
+*.fastq
+*.gz
