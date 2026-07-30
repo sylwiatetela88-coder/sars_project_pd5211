@@ -5,3 +5,7 @@ results/*bam.bai
 .sneakmake/
 *.fastq
 *.gz
+work/
+.nextflow/
+.nextflow.log/
+

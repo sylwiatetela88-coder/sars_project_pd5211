@@ -45,3 +45,17 @@ sars_project/
     ├── aligned_sorted.bam.bai
     └── variants.vcf
 
+---
+
+## 🔀 Alternatywne wykonanie w Nextflow (DSL2)
+
+Projekt został również przystosowany do uruchomienia w systemie **Nextflow**.
+
+### Pliki pipeline'u:
+* **`main.nf`**: Skrypt definiujący procesy (FastQC, BWA Index, Mapowanie, Variant Calling) w architekturze DSL2.
+* **`nextflow.config`**: Konfiguracja automatycznego generowania raportów i wykresu DAG.
+
+### Uruchomienie:
+```bash
+nextflow run main.nf
+
