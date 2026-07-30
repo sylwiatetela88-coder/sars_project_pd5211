@@ -1,8 +1,4 @@
 
-Sylwia Tetela <sylwiatetela6@gmail.com>
-22:49 (6 minut temu)
-do mnie
-
 # 🧬 SARS-CoV-2 Variant Calling Pipeline (Snakemake)
 
 [![Snakemake](https://img.shields.io/badge/snakemake-≥7.0-brightgreen.svg)](https://snakemake.github.io)
